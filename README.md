@@ -8,4 +8,6 @@ A small Iot project to simulate some features like: lighting, doorlock, monitor 
 - Module SR505 motion sensor
 - Servo 5V
 - Leds 5mm
+## Wiring
+- refer to the following link: https://wokwi.com/projects/418786533471215617
 ![image](https://github.com/user-attachments/assets/5b49b230-6c97-4e44-b5f9-4c477975bf43)
